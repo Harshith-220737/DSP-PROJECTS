@@ -1,5 +1,5 @@
 import numpy as np
-import pandas as pd
+import pandas as pd # type: ignore
 
 print("----- Broadcasting Example 1 -----")
 np.random.seed(1234)
