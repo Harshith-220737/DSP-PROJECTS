@@ -1,0 +1,5 @@
+Customer_ID,Age,Income,Gender,Purchase_Amount,City,Age_Group
+1,22.0,-1.52127765851133,0,200,Hyderabad,Young
+2,25.0,-0.1690308509457033,1,300,Delhi,Young
+3,30.0,1.1832159566199232,1,250,Delhi,Young
+4,28.0,0.50709255283711,0,270,Mumbai,Young
